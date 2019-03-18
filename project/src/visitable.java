@@ -1,2 +1,2 @@
-public class visitable extends zone_touristique {
+public class visitable {
 }
