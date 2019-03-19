@@ -1,2 +1,2 @@
-public class payant {
+public class payant extends zone_touristique {
 }
